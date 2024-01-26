@@ -1,0 +1,9 @@
+#this command is used for printing the path of current working directory in the terminal 
+
+
+## usage 
+
+pwd 
+
+/prints/current/directory/path 
+
