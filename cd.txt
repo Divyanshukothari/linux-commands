@@ -1,0 +1,12 @@
+### 
+
+cd 
+
+cd stands for chagne directory 
+as the name suggest this command is use to change directory
+
+###
+
+cd .. => is used to move one directory above the current directory
+cd - => is used to move to one move to previous directory
+
