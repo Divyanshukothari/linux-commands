@@ -1,0 +1,7 @@
+#####
+  
+  this command clears the terminal 
+
+####
+
+

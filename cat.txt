@@ -1,0 +1,20 @@
+#####
+
+cat command is used to concate results of two file 
+print the content of file in terminal 
+it can be chained with other commands too 
+cat is also used to create new file 
+if file already exists it can be used to over write it 
+#####
+
+
+###### USAGE ######### 
+
+cat file_name ==> to print the content of file to terminal 
+cat > file_name => if file does not exist it wil create one 
+                   if it does exist it will overwrite it 
+
+cat file1 file2 => this command is used to print the content of file1 and file2 togather in the terminal 
+cat file1 file2 > file3 => if file3 does not exist it will create it and append all content in it 
+cat -n filename ==> this command is used to print content of file with ordering in it 
+
