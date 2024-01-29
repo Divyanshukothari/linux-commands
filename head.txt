@@ -1,0 +1,16 @@
+#####
+HEAD 
+
+  this command is used to print first n lines of a file 
+  this command is alternative to cat and used if we only need to see first few lines of a file 
+
+
+
+#####
+
+
+USAGE 
+
+
+head file_name ===>  this by defualt will print first 10 lines of files to the terminal 
+head -n no_of_lines file_name  or head -[numeric_value] file_name ===>  this will print the line specified from the -n flag from top of the file 

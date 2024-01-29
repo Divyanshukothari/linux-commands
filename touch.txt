@@ -1,0 +1,12 @@
+#####
+TOUCH 
+
+this command is used to create the empty file its most populat usecase 
+
+#####
+
+
+if the file_name does not exists it creates it 
+if the file_name does exists it updates its timpestamp to the current timestamp 
+
+
