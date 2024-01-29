@@ -1,5 +1,17 @@
 #####
 RMDIR
 
+this command is used to remove directories
+if directory is empty or it just had nested directories init this command will remove it 
+but this command fails if we have some content in directories 
+
 
 #####
+
+USAGE 
+
+ rmdir dir_name ==> if the directory has no content it will remove it 
+ rmdir -p dir_name == > if the directory is nested and has no content init it will remocve everything 
+
+
+
