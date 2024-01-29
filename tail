@@ -1,0 +1,16 @@
+#####
+TAIL 
+
+  this command is used to print last  n lines of a file 
+  this command is alternative to cat and used if we only need to see last few lines of a file 
+
+
+
+#####
+
+
+USAGE 
+
+
+tail  file_name ===>  this by defualt will print last  10 lines of file to the terminal 
+tail -n no_of_lines file_name  or tail -[numeric_value] file_name ===>  this will print the line specified from the -n flag from last of the file
